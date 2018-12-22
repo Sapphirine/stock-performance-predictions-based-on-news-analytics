@@ -23,7 +23,7 @@ The modeling code is under ./src. Since LSTM has different data preprecessing re
 The [report](https://github.com/Sapphirine/stock-performance-predictions-based-on-news-analytics/blob/master/Report.pdf) documents all the details of our analysis.
 
 ## Presentation Slides
-Slides used in the presentation can be found [here](https://github.com/Sapphirine/stock-performance-predictions-based-on-news-analytics/blob/master/Presentation.pptx).
+Slides used in the presentation can be found [here](https://github.com/Sapphirine/stock-performance-predictions-based-on-news-analytics/blob/master/Presentation.pdf).
 
 ## Youtube Video
 [Proposal](https://www.youtube.com/watch?v=sY_Bxfj1V-Y&t=10s)
